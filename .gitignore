@@ -1,0 +1,43 @@
+# -------------------------
+# Node.js / Express backend
+# -------------------------
+server/node_modules/
+server/.env
+server/logs
+server/debug.log
+server/npm-debug.log*
+server/yarn-debug.log*
+server/yarn-error.log*
+server/package-lock.json
+
+# -------------------------
+# React frontend (Client)
+# -------------------------
+Client/node_modules/
+Client/.env
+Client/build/
+Client/.cache
+Client/package-lock.json
+
+# -------------------------
+# General
+# -------------------------
+*.log
+.DS_Store
+Thumbs.db
+.env
+*.local
+*.swp
+*.swo
+
+# -------------------------
+# VS Code
+# -------------------------
+.vscode/
+.history/
+
+# -------------------------
+# OS generated files
+# -------------------------
+ehthumbs.db
+Icon?
