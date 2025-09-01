@@ -5,9 +5,9 @@ If you want to adopt a pet, you fill out a form with your details. The admin get
 
 So, PawFinds makes it easy to find new homes for pets and connect them with people who want to adopt.
 
-### Watch PawFinds in Action
+### PawFinds Landing Page -
 
-![Preview Image](https://github.com/extremecoder-rgb/PawFInds/assets/land.png)
+![Preview Image](https://raw.githubusercontent.com/extremecoder-rgb/PawFInds/main/assets/land.png)
 
 
 ## Introduction
