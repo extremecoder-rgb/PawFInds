@@ -7,7 +7,7 @@ So, PawFinds makes it easy to find new homes for pets and connect them with peop
 
 ### Watch PawFinds in Action
 
-![Preview Image](https://github.com/extremecoder-rgb/PawFInds/assets/land)
+![Preview Image](https://github.com/extremecoder-rgb/PawFInds/assets/land.png)
 
 
 ## Introduction
